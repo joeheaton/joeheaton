@@ -1,6 +1,6 @@
 # Joe Heaton
 
-- [Website](https://www.heaton.dev/)
-- [Twitter](https://twitter.com/Heaton_dev)
+- I have a [Website](https://www.heaton.dev/), you can find more ways to get a hold of me there!
+- Sometimes I [Tweet](https://twitter.com/Heaton_dev)
 
-Did you know you can do this too by creating a repo named as your username and populating a README.md!
+Did you know that you too can write a message here by creating a repo named the same as your username and populating the README.md!
