@@ -1,4 +1,4 @@
-# Joe Heaton
+# Joe Heaton.dev
 
 - I have a [Website](https://www.heaton.dev/), you can find more ways to get a hold of me there!
 - Sometimes I [Tweet](https://twitter.com/Heaton_dev) about HPC
