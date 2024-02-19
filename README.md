@@ -1,4 +1,4 @@
-# [Joe Heaton.dev](https://www.heaton.dev/)
+# [Heaton.dev](https://heaton.dev/)
 
 I work on technology of all kinds and I try to aggregate what I learn here!
 
